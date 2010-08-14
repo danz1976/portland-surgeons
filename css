@@ -1,0 +1,4 @@
+#!/bin/sh
+
+sass -t compressed style.sass > style.css
+

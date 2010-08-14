@@ -1,0 +1,3 @@
+#!/bin/sh
+
+rsync -avr --exclude '**.git' --exclude '**.sass' --exclude '.sass-cache' -e ssh . dzink76@shell1c40.carrierzone.com:public/portland-surgeons
