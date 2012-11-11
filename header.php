@@ -27,6 +27,7 @@
                     <li><a class="<?php echo (preg_match('/index.php/', $_SERVER["REQUEST_URI"]) || preg_match('/\/$/', $_SERVER["REQUEST_URI"])) ? 'selected' : '' ?>" href="index.php">Home</a></li>
                     <li><a class="<?php echo preg_match('/directions.php/', $_SERVER["REQUEST_URI"]) ? 'selected' : '' ?>" href="directions.php">Directions</a></li>
                     <li><a class="<?php echo preg_match('/forms.php/', $_SERVER["REQUEST_URI"]) ? 'selected' : '' ?>" href="forms.php">Forms</a></li>
+                    <li><a class="<?php echo preg_match('/gaumond.php/', $_SERVER["REQUEST_URI"]) ? 'selected' : '' ?>" href="gaumond.php">Dr. Gaumond</a></li>
                     <li><a class="<?php echo preg_match('/soot.php/', $_SERVER["REQUEST_URI"]) ? 'selected' : '' ?>" href="soot.php">Dr. Soot</a></li>
                     <li><a class="<?php echo preg_match('/yu.php/', $_SERVER["REQUEST_URI"]) ? 'selected' : '' ?>" href="yu.php">Dr. Yu</a></li>
                     <li><a class="<?php echo preg_match('/zink.php/', $_SERVER["REQUEST_URI"]) ? 'selected' : '' ?>" href="zink.php">Dr. Zink</a></li>
