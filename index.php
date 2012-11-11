@@ -3,7 +3,7 @@
 <h1 class="front">About us:</h1>
 <h1 class="fronttwo">We are a group of general surgeons, dedicated to serving the needs of our patients.</h1>
 
-<img src="images/eGroup2.jpg" width="400" height="229" style="float:right">
+<img src="images/group3.jpg" width="400" height="234" style="float:right">
 
 <p>
 Our mission is to take care of patients with surgical problems in a compassionate and
