@@ -1,6 +1,6 @@
 <?php include('header.php') ?>
 
-<img src="images/gaumond.jpg" width="216" height="300" class="face">
+<img src="images/Jordana.jpg" width="217" height="301" class="face">
 
 <h2>Jordana Gaumond, MD</h2>
 

@@ -1,6 +1,6 @@
 <?php include('header.php') ?>
 
-<img src="images/kelvin4.jpg" width="217" height="300" class="face">
+<img src="images/kelvin4.jpg" width="217" height="303" class="face">
 
 <h2>Kelvin Yu, M.D.</h2>
 
