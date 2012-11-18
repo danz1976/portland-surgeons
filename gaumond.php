@@ -20,7 +20,7 @@ breast, gallbladder, intestine or colon, kidney, abdominal wall or musculature
 <p>When she is not practicing surgery, she enjoys outdoor and family
 activities.</p>
 
-<a href="cv/CurriculumVitae2012-JordanaGaumond.docx.pdf">See Dr. Gaumond's CV</a>
+<a href="cv/gaumond-cv.pdf">See Dr. Gaumond's CV</a>
 
 <?php include('footer.php') ?>
 
