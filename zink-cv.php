@@ -233,13 +233,6 @@
     <li>Missouri State Medical Association 2000-2004</li>
   </ul>
 
-  <h1>PERSONAL</h1>
-
-  <ul>
-    <li>Spouse: John Teeter, Quality Engineer, Nike</li>
-    <li>Hobbies: Juggling, unicycling, trapeze, white water kayaking, gardening, wood working, running, piano, hiking</li>
-  </ul>
-
 </div>
 
 <?php include('footer.php') ?>
