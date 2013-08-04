@@ -30,7 +30,6 @@ of the following problems:
     <li>Gallbladder Disease</li>
     <li>Spleen Removal</li>
     <li>Stomach tumors</li>
-    <li>Gastro Esophageal Reflux Disease (GERD)</li>
     <li>Small Bowel Disease</li>
 <ul>
 </td>
