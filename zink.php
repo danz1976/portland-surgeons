@@ -14,7 +14,7 @@ Urbana-Champaign.</p>
 <p>She is a general surgeon who is interested in the broad range of general
 surgery, with a particular interest in minimally invasive surgery. Areas of
 interest include gallbladder surgery, hernias (laparoscopic and open), colon
-surgery, surgery for acid reflux, surgery for melanoma, and surgery for breast
+surgery, surgery for melanoma, and surgery for breast
 disease.</p>
 
 <p>When not working, she enjoys skiing, kayaking, juggling, unicycling,
