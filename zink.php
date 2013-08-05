@@ -12,13 +12,16 @@ completed her undergraduate degree at the University of Illinois at
 Urbana-Champaign.</p>
 
 <p>She is a general surgeon who is interested in the broad range of general
-surgery, with a particular interest in minimally invasive surgery. Areas of
+surgery, with a focus on minimally invasive surgery. Areas of
 interest include gallbladder surgery, hernias (laparoscopic and open), colon
-surgery, surgery for melanoma, and surgery for breast
-disease.</p>
+and small bowel surgery, surgery for melanoma, and surgery for breast
+disease.  She is particularly interested in working with athletes and others 
+who participate in strong physical activity, on being able to return to a 
+high level of function as quickly as possible after hernia repairs and 
+other surgeries.</p>
 
-<p>When not working, she enjoys skiing, kayaking, juggling, unicycling,
-cooking, and traveling.</p>
+<p>When not working, she enjoys juggling, unicycling, skiing, kayaking,
+cooking, traveling, and playing with her family.</p>
 
 <a href="zink-cv.php">See Dr. Zink's CV</a>
 
