@@ -4,7 +4,7 @@
 
 <ul>
   <li><a href="forms/HIPAA.pdf">HIPAA.pdf</a>
-  <li><a href="forms/PS_Authorization.pdf">Authorization.pdf</a>
+  <li><a href="forms/Authorization.pdf">Authorization.pdf</a>
   <li><a href="forms/PS_FEMALE_HEALTH_SURVEY.pdf">FEMALE HEALTH SURVEY.pdf</a>
   <li><a href="forms/PS_Medical_History.pdf">Medical History.pdf</a>
   <li><a href="forms/PS_Patient_Registration.pdf">Patient Registration.pdf</a>
