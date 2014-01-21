@@ -15,6 +15,18 @@ individual patient’ s needs, values, and goals in mind.
 </p>
 
 <p>
+We are committed to working with a team approach.  Although your closest relationship 
+will be with your primary surgeon, we all work together to be sure you are taken care of in the best, 
+safest, and most efficient manner possible.  On evenings and weekends, you may hear from  or meet one of
+the other members of the team.  If problems arise, and your primary surgeon is not available, rest assured
+that we all take care of patients in a similar manner, and your care will not change based on who is on call. 
+If you are seeing one of us, and we feel one of our partners is more specialized in your particular problem,
+we will discuss this with you and possibly have you see that surgeon, to ensure you are getting the best 
+possible care we can offer.  However, we will never change who is doing your operation without your knowledge
+and consent.  
+</p>
+
+<p>
 We practice the full range of general surgery, including, but not limited to, the surgical treatment
 of the following problems:
 </p>

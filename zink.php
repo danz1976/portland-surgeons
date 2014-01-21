@@ -16,9 +16,11 @@ surgery, with a focus on minimally invasive surgery. Areas of
 interest include gallbladder surgery, hernias (laparoscopic and open), colon
 and small bowel surgery, surgery for melanoma, and surgery for breast
 disease.  She is particularly interested in working with athletes and others 
-who participate in strong physical activity, on being able to return to a 
+who participate in strong physical activity, on helping them return to a 
 high level of function as quickly as possible after hernia repairs and 
-other surgeries.</p>
+other surgeries.  She has experience working with long distance runners, advanced
+cyclists, people who do heavy lifting for work, and others interested in maintaining
+their physical activity.  </p>
 
 <p>When not working, she enjoys juggling, unicycling, skiing, kayaking,
 cooking, traveling, and playing with her family.</p>
