@@ -12,6 +12,12 @@ practice in Portland. He is Board Certified in General Surgery, and is a member
 of the American College of Surgeons. He is married, and has 2 children.
 </p>
 
+<p>
+Dr. Soot is the Chair of the Department of Surgery at Providence Portland Medical 
+Center.  As Chair of Surgery, Dr. Soot monitors quality and performance of the
+members of the Department of Surgery.  He also sits on the Medical Executive 
+Committee.  
+
 <p> 
 He enjoys all aspects of General Surgery in his practice.  He has a particular interest in 
 laparoscopic surgery as well as hernia repair.  He also has a focus on colon and small bowel 
