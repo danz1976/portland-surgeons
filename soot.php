@@ -17,6 +17,7 @@ Dr. Soot is the Chair of the Department of Surgery at Providence Portland Medica
 Center.  As Chair of Surgery, Dr. Soot monitors quality and performance of the
 members of the Department of Surgery.  He also sits on the Medical Executive 
 Committee.  
+</p>
 
 <p> 
 He enjoys all aspects of General Surgery in his practice.  He has a particular interest in 
