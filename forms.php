@@ -19,13 +19,7 @@ forward to meeting you. </p>
 
 <ul>
   <li><a href="forms/New_patient_packet.pdf">New Patient Packet.pdf</a>
-  <li><a href="forms/HIPAA_Notice.pdf">HIPAA Notice.pdf</a>
-  <li><a href="forms/PS_Review_of_Systems.pdf">Review of Systems.pdf</a>  
-  <li><a href="forms/Authorization.pdf">Family Authorization.pdf</a>
-  <li><a href="forms/PS_FEMALE_HEALTH_SURVEY.pdf">Female Health Survey.pdf</a>
-  <li><a href="forms/PS_Payment_Policy.pdf">Payment Policy.pdf</a>
-  <li><a href="forms/Privacy.notice.pdf">Privacy Notice.pdf</a>  
-  <li><a href="forms/HIPAA.pdf">Privacy Acknowledgement.pdf</a>  
+  <li><a href="forms/HIPAA_Notice.pdf">HIPAA Notice.pdf</a> 
 </ul>
 
 <?php include('footer.php') ?>
